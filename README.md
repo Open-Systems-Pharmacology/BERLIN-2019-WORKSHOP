@@ -36,6 +36,7 @@ Christina Abts - E-mail: christina.abts@sgs.com
 www.exprimo.com & www.fu-berlin.de
 
 ## PREPARATION
+- PLEASE BRING YOUR OWN LAPTOPS! We will be doing hands-on work!
 - To download the software, please click [here]( http://setup.open-systems-pharmacology.org )
 - For starters, please check out the tutorial site (videos &amp; hands-on) [here](http://www.open-systems-pharmacology.org/#tutorials)
 - Documentation can be found [here](https://docs.open-systems-pharmacology.org/)
