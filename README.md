@@ -40,3 +40,6 @@ www.exprimo.com & www.fu-berlin.de
 - To download the software, please click [here]( http://setup.open-systems-pharmacology.org )
 - For starters, please check out the tutorial site (videos &amp; hands-on) [here](http://www.open-systems-pharmacology.org/#tutorials)
 - Documentation can be found [here](https://docs.open-systems-pharmacology.org/)
+
+![grafik](https://user-images.githubusercontent.com/25061876/49989743-87d8e900-ff7b-11e8-972b-9a2d588f6222.png)
+![grafik](https://user-images.githubusercontent.com/25061876/49989793-a7701180-ff7b-11e8-8e10-0a2c3038630d.png)
