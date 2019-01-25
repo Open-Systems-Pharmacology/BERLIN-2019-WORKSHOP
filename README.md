@@ -1,4 +1,4 @@
-#[FULLY BOOKED] BERLIN-2019-WORKSHOP
+# [FULLY BOOKED] BERLIN-2019-WORKSHOP
 Dear all, Sorry we are fully booked! Check out for other arising Workshops this year. E.g. [at PAGE 2019](https://github.com/Open-Systems-Pharmacology/PAGE-2019-PB-QSP-Workshop)
 
 SGS Exprimo and the FU Berlin will run a two-days hands-on PK-Sim® &amp; MoBi® workshop on introducing PBPK for human dose projection and drug-drug interaction (DDI) prediction on 21st-22nd Feb 2019 at the Institute of Pharmacy, FU-Berlin, Germany.
